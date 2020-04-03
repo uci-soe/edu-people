@@ -1,0 +1,20 @@
+{
+  "name": "edu-people-ddb-lambda",
+  "version": "0.1.0",
+  "description": "Lambda Function to operate as people database microservice for UCI School of Education. ",
+  "main": "handler.js",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/uci-soe/edu-people"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rhett Lowe",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "apollo-server-lambda": "^2.11.0",
+    "graphql": "latest",
+    "graphql-type-json": "^0.3.1"
+  }
+}
