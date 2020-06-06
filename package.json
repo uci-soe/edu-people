@@ -13,7 +13,7 @@
   "author": "Rhett Lowe",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "apollo-server-lambda": "^2.11.0",
+    "apollo-server-lambda": "^2.14.2",
     "graphql": "latest",
     "graphql-type-json": "^0.3.1"
   }
